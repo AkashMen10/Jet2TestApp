@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Jet2App</string>
+    <string name="app_name">Articles</string>
+    <string name="like_string">Likes</string>
+    <string name="comment_string">Comments</string>
+    <string name="k_suffix">k</string>
+    <string name="day_suffix">d</string>
+    <string name="hour_suffix">hr</string>
+    <string name="minute_suffix">min</string>
+
 </resources>
